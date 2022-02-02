@@ -1,5 +1,3 @@
-# CAP-e-Sigle-dei-Capoluoghi-di-Provincia-Italiani
-CAP e Sigle dei Capoluoghi di Provincia Italiani
 | Provincia | Regione | Sigla | CAP dei capoluoghi | CAP della provincia |
 | --- | --- | --- | --- | --- |
 | Agrigento | Sicilia | AG | 92100 | 920xx (da 92010 a 92029) |
